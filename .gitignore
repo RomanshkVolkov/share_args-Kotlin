@@ -1,0 +1,62 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Built project files
+/build/
+/app/build/
+/captures/
+
+# Gradle files
+/gradle/
+/gradlew
+/gradlew.bat
+
+# Gradle daemon logs
+//.gradle/
+/gradle/wrapper/
+
+# Android Studio files
+/.idea/
+/.navigation/
+.DS_Store
+*.iml
+*.iws
+
+# Keystore files
+*.jks
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# generated files
+.gen
+.ap_
+
+# User-specific files
+*.swp
+*~
+
+# Generated files
+/generated/
+
+# Ignore specific files
+/local.properties
+/proguard-rules.pro
+
+# Ignore files in .gradle directory
+/.gradle/caches/
+/.gradle/daemon/
+/.gradle/gradle.jar
